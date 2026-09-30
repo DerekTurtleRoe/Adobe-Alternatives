@@ -177,6 +177,7 @@
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(Mac, iOS)*
 - 🔒 [Kapwing](https://www.kapwing.com) *(Browser)*
 - 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Android, iOS)*
+- 🔒 [ReelWorkshop](https://reelworkshop.com) *(Browser)*
 
 ## Acrobat
 
